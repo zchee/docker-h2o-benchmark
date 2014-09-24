@@ -8,7 +8,7 @@ Requirments
 -----------
 
   * Docker host (recommended: boot2docker or CoreOS)
-  * `make` (requirments on boot2docker)
+  * `make` (requirement on boot2docker)
 
 ### **Important NOTES**
 
