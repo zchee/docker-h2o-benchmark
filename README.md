@@ -23,11 +23,13 @@ However, I'm not found more better solution yet
 Run all phase
 -------------
 
-On Boot2Docker:
+On Boot2Docker in OSX:
 
 ```
 $ git clone git://github.com/nyarla/docker-h2o-benchmark
 $ cd docker-h2o-benchmark
+$ boot2docker up
+$ export DOCKER_HOST=<your boot2docker IP>
 $ make # that's all ;-)
 ```
 
