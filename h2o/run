@@ -1,0 +1,5 @@
+#!/bin/sh
+
+set -eux
+
+cd /opt/h2o/ && exec ./h2o -c examples/h2o.conf
