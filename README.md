@@ -59,7 +59,7 @@ $ ./clean.sh
   * Host: Mac mini late 2012 CPU/2.6Ghz, MEM: 16GB 1600MHz DDR3
   * OS: OSX Mavericks 10.9.5
   * Geust: CoreOS alpha CPU/v2 core MEM: 4096MB 
-  * * VM: VirtualBox 4.3.16 r95972
+  * VM: VirtualBox 4.3.16 r95972
 
 6. Author
 ---------
