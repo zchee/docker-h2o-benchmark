@@ -71,3 +71,7 @@ Naoki OKAMURA (Nyarla) <nyarla@thotep.net>
 
   * This package is under the Public domain.
 
+NOTE:
+
+  * `nginx/nginx.conf` is copied from https://gist.github.com/kazuho/c9c12021567e3ab83809
+
