@@ -4,10 +4,21 @@ docker-h2o-benchmark
   * A benchmark toolkit for compare h2o and nginx on docker container
 
 
-0. Requirments
---------------
+Requirments
+-----------
 
-  * Docker host (recommanded: CoreOS or boot2docker)
+  * Docker host (recommended: boot2docker or CoreOS)
+  * **NOTE: This benchmark is runnning on Docker host only**
+     * So, If you'd like to running CoreOS on VMs, you need to `git clone` this repository on CoreOS
+
+0. Run all phase
+----------------
+
+NOTE: `make` is required
+
+```
+$ make
+```
 
 1. Build
 --------
