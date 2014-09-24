@@ -10,6 +10,7 @@ Requirments
   * Docker host (recommended: boot2docker or CoreOS)
   * **NOTE: This benchmark is runnning on Docker host only**
      * So, If you'd like to running CoreOS on VMs, you need to `git clone` this repository on CoreOS
+     * However, If you use boot2docker, you can run this benchmark is `$ make` command only ;-)
 
 0. Run all phase
 ----------------
