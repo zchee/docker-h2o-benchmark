@@ -7,7 +7,7 @@ docker-h2o-benchmark
 0. Requirments
 --------------
 
-  * Docker host (recommanded: CoreOS)
+  * Docker host (recommanded: CoreOS or boot2docker)
 
 1. Build
 --------
