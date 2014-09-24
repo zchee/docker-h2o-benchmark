@@ -36,6 +36,10 @@ $ make # that's all ;-)
 On CoreOS:
 
 ```
+$ ssh core@<your coreos IP address>
+
+# these command are execute on CoreOS instance.
+
 $ git clone git://github.com/nyarla/docker-h2o-benchmark
 $ cd docker-h2o-benchmark
 $ ./build.sh
